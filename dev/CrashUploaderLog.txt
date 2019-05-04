@@ -1,0 +1,1 @@
+[2019-05-03T20:17:03] [11172:5532:20190503,201703.840:ERROR main.cpp:27] Initializing windows crash uploader
